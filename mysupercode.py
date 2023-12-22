@@ -10,7 +10,7 @@
       snyk iac test || true
 	  
  - Invoice Service URL: https://7b3a7da2trial.ui-trial.dox.aiservices.cfapps.us10.hana.ondemand.com/ui/index.html?clientId=default#/invoiceviewer
-	UserName = slim.trabelsi@gmail.com
-	Password = "Mysuperpassword1234/."
+	UserName = toto@gmail.com
+	Password = "Mysuperpassword54321/."
 password = "sefvefsbvsefbszfgb"
 password = "M45upeRp4ssW0r|)"
